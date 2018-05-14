@@ -1,0 +1,4 @@
+#Thu May 03 10:55:58 CST 2018
+base.0=D\:\\code\\hht\\pinyinIme\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\code\\hht\\pinyinIme\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

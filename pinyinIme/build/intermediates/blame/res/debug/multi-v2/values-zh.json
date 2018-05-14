@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\values-zh\\bools.xml",
+                    "from": {
+                        "startLines": "16",
+                        "startColumns": "2",
+                        "startOffsets": "684",
+                        "endColumns": "40",
+                        "endOffsets": "722"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                }
+            ]
+        }
+    ]
+}

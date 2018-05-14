@@ -1,0 +1,554 @@
+[
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\xml_skb_phone.xml.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\xml\\skb_phone.xml"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_03.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_03.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_input_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\input_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delete_click_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\delete_click_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_normal_key_bg.9.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\normal_key_bg.9.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_14_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_14_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_11_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_11_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\raw_dict_pinyin.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\raw\\dict_pinyin.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_num4.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\num4.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_space_popup_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\space_popup_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_11.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_11.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_period_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\period_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_candidates_vertical_line.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\candidates_vertical_line.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\xml_skb_sym1.xml.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\xml\\skb_sym1.xml"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_comma_full_popup_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\comma_full_popup_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_light_key_bg.9.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\light_key_bg.9.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_candidate_hl_bg.9.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\candidate_hl_bg.9.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_22_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_22_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shift_click_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\shift_click_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_12.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_12.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_input_background.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\input_background.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_num3.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\num3.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_candidate_balloon_bg.9.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\candidate_balloon_bg.9.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shift_on_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\shift_on_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_left_bg.xml.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\arrow_left_bg.xml"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_02.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_02.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_search_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\search_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_normal_button_click_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\normal_button_click_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exit_button.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\exit_button.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_space_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\space_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_ime_pinyin.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\ime_pinyin.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_light_key_up_hl_bg.9.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\light_key_up_hl_bg.9.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_16_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_16_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_01.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_01.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_num9.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\num9.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_composing_area_bg.9.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\composing_area_bg.9.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_24.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_24.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_enter_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\enter_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_composing_area_cursor.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\composing_area_cursor.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_function_button_click_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\function_button_click_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enter_click_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\enter_click_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_search_popup_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\search_popup_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_06_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_06_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_space_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\space_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\xml_skb_qwerty.xml.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\xml\\skb_qwerty.xml"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wenzi.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\wenzi.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_delete_popup_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\delete_popup_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_left.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\arrow_left.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\xml_skb_template1.xml.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\xml\\skb_template1.xml"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delete_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\delete_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_delete_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\delete_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enter_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\enter_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_skb_container_bg.9.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\skb_container_bg.9.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_12_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_12_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_cands_container_bg.9.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\cands_container_bg.9.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_00_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_00_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_15_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_15_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_04.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_04.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_period_popup_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\period_popup_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_period_full_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\period_full_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_dun_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\dun_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_03_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_03_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shift_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\shift_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_comma_full_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\comma_full_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_enter_popup_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\enter_popup_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_numalt.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\numalt.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_candidates_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\candidates_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_key_balloon_bg.9.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\key_balloon_bg.9.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_num1.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\num1.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_shift_off_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\shift_off_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_numstar.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\numstar.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_normal_key_hl_bg.9.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\normal_key_hl_bg.9.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_right.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_04_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_04_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pinyin.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\pinyin.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\layout_candidates_container.xml.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\layout\\candidates_container.xml"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_num7.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\num7.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_num0.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\num0.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_shift_on_popup_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\shift_on_popup_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_numpound.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\numpound.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wenzi1.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\wenzi1.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_06.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_06.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_switch_eng.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\switch_eng.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_14.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_14.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_light_key_up_bg.9.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\light_key_up_bg.9.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_21_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_21_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_24_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_24_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_22.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_22.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_left_click_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\left_click_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right_click_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\right_click_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_21.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_21.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\right_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_num6.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\num6.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\layout_skb_container.xml.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\layout\\skb_container.xml"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_smiley_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\smiley_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\xml_method.xml.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\xml\\method.xml"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_normal_button_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\normal_button_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\layout_floating_container.xml.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\layout\\floating_container.xml"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_10_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_10_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_13_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_13_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_space_click_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\space_click_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_composing_hl_bg.9.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\composing_hl_bg.9.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_function_button_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\function_button_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_period_full_popup_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\period_full_popup_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\xml_skb_smiley.xml.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\xml\\skb_smiley.xml"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_candidates_area_bg.9.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\candidates_area_bg.9.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_01_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_01_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_shift_on_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\shift_on_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_15.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_15.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_16.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_16.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\xml_skb_sym2.xml.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\xml\\skb_sym2.xml"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_20_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_20_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_23_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_23_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_ime_en.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\ime_en.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_right_bg.xml.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\arrow_right_bg.xml"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_20.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_20.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_left_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\left_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_shift_off_popup_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\shift_off_popup_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_num5.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\num5.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_05.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_05.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_02_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_02_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_num2.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\num2.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_num8.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\num8.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\xml_skb_12key.xml.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\xml\\skb_12key.xml"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_skb_bg.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\skb_bg.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\xml_settings.xml.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_05_popup.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_05_popup.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_light_key_hl_bg.9.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\light_key_hl_bg.9.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_miniskb_bg.9.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\miniskb_bg.9.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_00.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_00.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_smiley_popup_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\smiley_popup_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pinyin1.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\pinyin1.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_13.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_13.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_23.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_23.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_emotion_icon_10.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\emotion_icon_10.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_switch_ch.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable-hdpi\\switch_ch.png"
+    },
+    {
+        "merged": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\drawable_dun_popup_icon.png.flat",
+        "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\drawable\\dun_popup_icon.png"
+    }
+]

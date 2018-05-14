@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<skb_template
+    balloon_bg="@drawable/key_balloon_bg"
+    color_balloon="@color/balloon_color"
+    color_highlight="@color/label_color"
+    key_xmargin="1%p"
+    key_ymargin="4%p"
+    popup_bg="@drawable/miniskb_bg"
+    skb_bg="@color/lightgrey"
+    color="@color/label_color" >
+
+    <!-- Normal key --> 
+    <!-- 
+    <key_type
+        id="0"
+        bg="@drawable/normal_key_bg"
+        color_highlight="@color/label_color_hl0"
+        hlbg="@drawable/normal_key_hl_bg" /> -->
+    <key_type
+        id="0"
+        bg="@drawable/normal_button_bg"
+        color_highlight="@color/label_color_hl0"
+        hlbg="@drawable/normal_button_click_bg" />
+
+    <!-- Function key -->
+    <key_type
+        id="1"
+        bg="@drawable/function_button_bg"
+        hlbg="@drawable/function_button_click_bg" />
+
+    <!-- Light key, light is off -->
+    <key_type
+        id="2"
+        bg="@color/white"
+        hlbg="@color/lightgrey" />
+
+    <!-- Light key, light is on -->
+    <key_type
+        id="3"
+        bg="@color/white"
+        hlbg="@color/lightgrey" />
+
+    <!-- key without background -->
+    <key_type id="4" />
+
+    <!-- Key with normal background but on-key high-light --> <!-- Space Key 在此设置 -->
+    <key_type
+        id="5"
+        bg="@color/white"
+        color_highlight="@color/label_color_hl0"
+        hlbg="@color/lightgrey" />
+
+    <!-- Default icons for enter key -->
+    <key_icon
+        code="66"
+        icon="@drawable/enter_bg"
+        icon_popup="@drawable/enter_click_bg" />
+
+    <!-- Default icons for space key -->
+    <key_icon
+        code="62"
+        icon="@drawable/space_bg"
+        icon_popup="@drawable/space_click_bg" />
+
+    <!-- Default icons for delete key -->
+    <key_icon
+        code="67"
+        icon="@drawable/delete_bg"
+        icon_popup="@drawable/delete_click_bg"
+    />
+    
+    <!-- Default icons for exit key -->
+    <key_icon
+        code="68"
+        icon="@drawable/exit_button"
+        icon_popup="@drawable/exit_button"
+    />
+
+    <key_icon
+        code="-2"
+        icon="@drawable/switch_eng"
+        icon_popup="@drawable/switch_eng"
+        />
+
+    <!-- Default key definition -->
+    <!-- Enter key for QWERTY-like keyboards. -->
+    <key
+        id="1"
+        code="66"
+        height="25%p"
+        key_type="1"
+        start_pos_x="80%p"
+        start_pos_y="75%p"
+        width="13%p" >
+        <!--
+        <toggle_state
+            code="66"
+            label="去往"
+            state_id="@string/toggle_enter_go" />
+        <toggle_state
+            code="66"
+            icon="@drawable/search_icon"
+            icon_popup="@drawable/search_popup_icon"
+            state_id="@string/toggle_enter_search" />
+        <toggle_state
+            code="66"
+            label="发送"
+            state_id="@string/toggle_enter_send" />
+        <toggle_state
+            code="66"
+            label="下一个"
+            state_id="@string/toggle_enter_next" />
+        <toggle_state
+            code="66"
+            label="完成"
+            state_id="@string/toggle_enter_done" />
+            -->
+    </key>
+
+    <!-- Enter key for phone keyboard. -->
+    <key
+        id="2"
+        balloon="false"
+        code="66"
+        height="25%p"
+        key_type="1"
+        start_pos_x="75%p"
+        start_pos_y="75%p"
+        width="25%p" >
+        <!--
+        <toggle_state
+            code="66"
+            label="去往"
+            state_id="@string/toggle_enter_go" />
+        <toggle_state
+            code="66"
+            icon="@drawable/search_icon"
+            icon_popup="@drawable/search_popup_icon"
+            state_id="@string/toggle_enter_search" />
+        <toggle_state
+            code="66"
+            label="发送"
+            state_id="@string/toggle_enter_send" />
+        <toggle_state
+            code="66"
+            label="下一个"
+            state_id="@string/toggle_enter_next" />
+        <toggle_state
+            code="66"
+            label="完成"
+            state_id="@string/toggle_enter_done" />
+         -->
+    </key>
+
+    <!-- Delete key. -->
+    <key
+        id="3"
+        code="67"
+        height="25%p"
+        key_type="1"
+        repeat="true"
+        start_pos_x="85.715%p"
+        start_pos_y="50%p"
+        width="14.286%p" />
+    
+    <!-- Exit key. -->
+    
+    <key
+        id="8"
+        code="68"
+        height="17%p"
+        key_type="1"
+        repeat="false"
+        start_pos_x="93%p"
+        start_pos_y="83%p"
+        width="7%p" />
+	 
+	 
+    <!-- Symbol-switching key (off-mode). -->
+    <key
+        id="4"
+        code="-3"
+        height="25%p"
+        key_type="2"
+        label="\?123"
+        start_pos_x="14.286%p"
+        start_pos_y="75%p"
+        width="14.696%p" />
+
+    <!-- Symbol-switching key (on-mode). -->
+    <key
+        id="5"
+        code="-3"
+        height="25%p"
+        key_type="3"
+        label="\?123"
+        start_pos_x="14.286%p"
+        start_pos_y="75%p"
+        width="14.696%p" />
+
+    <!-- Language-switching key. -->
+    <!--
+    <key
+        id="6"
+        code="-2"
+        height="25%p"
+        key_type="1"
+        label="中 文"
+        repeat="true"
+        start_pos_x="0%p"
+        start_pos_y="75%p"
+        width="14.286%p" >
+        <toggle_state
+            code="-2"
+            label="英 文"
+            state_id="@string/toggle_en_lower" />
+        <toggle_state
+            code="-2"
+            label="英 文"
+            state_id="@string/toggle_en_upper" />
+    </key>
+    -->
+    <key
+        id="6"
+        code="-2"
+        height="25%p"
+        key_type="1"
+        start_pos_x="0%p"
+        start_pos_y="75%p"
+        width="14.286%p" >
+    </key>
+
+
+    <!-- Period key(English mode).   icon="@drawable/period_icon" 句号在此设置-->
+    <key
+        id="7"
+        height="25%p"
+        icon_popup="@drawable/period_popup_icon"
+        key_type="0"
+        label="."
+        start_pos_x="70.304%p"
+        start_pos_y="75%p"
+        width="10%p" />
+
+</skb_template>

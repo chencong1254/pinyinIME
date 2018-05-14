@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\values-port\\dimens.xml",
+                    "from": {
+                        "startLines": "16,-1",
+                        "startColumns": "4,-1",
+                        "startOffsets": "686,-1",
+                        "endColumns": "58,-1",
+                        "endOffsets": "740,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,47",
+                        "endOffsets": "109,157"
+                    }
+                }
+            ]
+        }
+    ]
+}

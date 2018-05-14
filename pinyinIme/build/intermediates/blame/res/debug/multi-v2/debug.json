@@ -1,0 +1,138 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "55,58",
+                        "startColumns": "4,4",
+                        "startOffsets": "2783,2866",
+                        "endLines": "57,60",
+                        "endColumns": "12,12",
+                        "endOffsets": "2861,2933"
+                    }
+                },
+                {
+                    "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "813",
+                        "endColumns": "58",
+                        "endOffsets": "867"
+                    }
+                },
+                {
+                    "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "872,909,954,999,1064,1110,1180,1228,1275,1323,1380,1454,1512,1576,1633,1699,1772,1827,1895,1950,1990,2035,2081,2126,2171,2217,2266,2312,2361,2411,2459,2506,2551,2606,2651,2697,2741",
+                        "endColumns": "36,44,44,64,45,69,47,46,47,56,73,57,63,56,65,72,54,67,54,39,44,45,44,44,45,48,45,48,49,47,46,44,54,44,45,43,41",
+                        "endOffsets": "904,949,994,1059,1105,1175,1223,1270,1318,1375,1449,1507,1571,1628,1694,1767,1822,1890,1945,1985,2030,2076,2121,2166,2212,2261,2307,2356,2406,2454,2501,2546,2601,2646,2692,2736,2778"
+                    }
+                },
+                {
+                    "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,23,28,29,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,4,4,4,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,1088,1269,1324,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,51,54,56,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,1135,1319,1376,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,158,208,260,312,367,424,475,521,573,617,681,729,773",
+                        "endColumns": "58,43,49,51,51,54,56,50,45,51,43,63,47,43,39",
+                        "endOffsets": "109,153,203,255,307,362,419,470,516,568,612,676,724,768,808"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\values-zh_values-zh.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\values-zh\\bools.xml",
+                    "from": {
+                        "startLines": "16",
+                        "startColumns": "2",
+                        "startOffsets": "684",
+                        "endColumns": "40",
+                        "endOffsets": "722"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\values-land_values-land.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\values-land\\dimens.xml",
+                    "from": {
+                        "startLines": "17,-1",
+                        "startColumns": "4,-1",
+                        "startOffsets": "699,-1",
+                        "endColumns": "59,-1",
+                        "endOffsets": "754,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,115",
+                        "endColumns": "59,47",
+                        "endOffsets": "110,158"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\code\\hht\\pinyinIme\\build\\intermediates\\res\\merged\\debug\\values-port_values-port.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\code\\hht\\pinyinIme\\src\\main\\res\\values-port\\dimens.xml",
+                    "from": {
+                        "startLines": "16,-1",
+                        "startColumns": "4,-1",
+                        "startOffsets": "686,-1",
+                        "endColumns": "58,-1",
+                        "endOffsets": "740,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,47",
+                        "endOffsets": "109,157"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hht.pinyinime.CandidatesContainer xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/candidates_container"
+    android:layout_width="0dip"
+    android:layout_height="0dip"
+    android:background="@drawable/wenzi"
+    android:orientation="horizontal" >
+    
+    <!--  android:background="@drawable/cands_container_bg"-->
+
+    <com.hht.pinyinime.DragView 
+        android:id="@+id/dragview3"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true" 
+        android:background="@android:color/transparent"
+    />
+    
+    <ViewFlipper
+        android:id="@+id/candidate_flipper"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@id/dragview3"
+         >
+        <view
+            android:id="@+id/candidate_view1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            class="com.hht.pinyinime.CandidateView" />
+        <view
+            android:id="@+id/candidate_view2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            class="com.hht.pinyinime.CandidateView" />
+    </ViewFlipper>
+
+    <!--
+    <ImageButton
+        android:id="@+id/arrow_left_btn"
+        android:layout_width="30dip"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@id/candidate_flipper"
+        android:background="@drawable/arrow_left_bg"
+        android:clickable="true"
+        android:src="@drawable/left_bg"
+        android:scaleType="fitEnd"
+         />
+
+    <ImageButton
+        android:id="@+id/arrow_right_btn"
+        android:layout_width="30dip"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@id/arrow_left_btn"
+        android:background="@drawable/arrow_left_bg"
+        android:clickable="true"
+        android:src="@drawable/right_bg"
+        android:scaleType="fitEnd"
+         />
+         -->
+
+    <ImageButton
+        android:id="@+id/arrow_left_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/candidate_flipper"
+        android:background="@drawable/arrow_left_bg"
+        android:layout_centerVertical="true"
+        />
+
+    <ImageButton
+        android:id="@+id/arrow_right_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/arrow_left_btn"
+        android:layout_marginLeft="10dp"
+        android:layout_centerVertical="true"
+        android:background="@drawable/arrow_right_bg"
+        android:clickable="true"
+        />
+
+    <com.hht.pinyinime.DragView 
+        android:id="@+id/dragview4"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@id/arrow_right_btn"
+        android:background="@android:color/transparent"
+    />
+
+    
+
+</com.hht.pinyinime.CandidatesContainer>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\code\hht\pinyinIme\src\main\jniLibs"><file name="armeabi/libjni_pinyinime.so" path="D:\code\hht\pinyinIme\src\main\jniLibs\armeabi\libjni_pinyinime.so"/></source></dataSet><dataSet config="debug"><source path="D:\code\hht\pinyinIme\src\debug\jniLibs"/></dataSet></merger>

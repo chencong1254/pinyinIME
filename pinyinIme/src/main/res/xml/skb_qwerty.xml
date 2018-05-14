@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboard
+    balloon="true"
+    height="25%p"
+    key_type="0"
+    qwerty="true"
+    qwerty_uppercase="true"
+    repeat="false"
+    skb_cache_flag="true"
+    skb_template="@xml/skb_template1"
+    width="10%p" 
+    >
+
+    <row>
+        <keys
+            codes="45|51|33|46|48|53|49|37|43|44"
+            labels="Q|W|E|R|T|Y|U|I|O|P"
+            splitter="|" />
+    </row>
+    <row
+        start_pos_x="4.078%p"
+        width="10.205%p" >
+        <keys
+            codes="29|47|32|34|35|36|38|39|40"
+            labels="A|S|D|F|G|H|J|K|L"
+            splitter="|" />
+    </row>
+    <row width="10.205%p" ><!-- icon="@drawable/comma_full_icon" -->
+        <key
+            
+            icon_popup="@drawable/comma_full_popup_icon"
+            label="，"
+            width="14.286%p" >
+            <toggle_state
+                code="-6"
+                icon="@drawable/smiley_icon"
+                icon_popup="@drawable/smiley_popup_icon"
+                key_type="2"
+                state_id="@string/toggle_smiley" />
+            <toggle_state
+                code="-1"
+                icon="@drawable/shift_bg"
+                icon_popup="@drawable/shift_click_bg"
+                key_type="2"
+                state_id="@string/toggle_en_lower" />
+            <toggle_state
+                code="-1"
+                icon="@drawable/shift_on_bg"
+                icon_popup="@drawable/shift_on_bg"
+                key_type="3"
+                state_id="@string/toggle_en_upper" />
+            <toggle_state
+                key_type="1"
+                label="&apos;"
+                state_id="@string/toggle_cn_cand" />
+        </key>
+
+        <keys
+            codes="54|52|31|50|30|42|41"
+            labels="Z|X|C|V|B|N|M"
+            splitter="|" />
+
+        <key id="3" />
+    </row>
+    <!-- 标准中文输入 -->
+    <row
+        row_id="@string/toggle_row_cn"
+        width="20%p" >
+        <key id="6" />
+        <key id="4" />
+        <key
+            code="62"
+            key_type="5"
+            width="41.5%p" />
+        <key
+            icon_popup="@drawable/period_full_popup_icon"
+            label="。"
+            width="10%p" />
+        <key id="1" />
+        <key id="8" />
+    </row>
+    <!-- 标准英文输入 -->
+    <row
+        row_id="@string/toggle_row_en"
+        start_pos_y="75%p"
+        width="20%p" >
+        <key id="6" />
+        <key id="4" />
+        <key
+            code="62"
+            key_type="5"
+            width="41.5%p" />
+        <key id="7" />
+        <key id="1" />
+        <key id="8" />
+    </row>
+    <!-- 标准浏览器输入 -->
+    <row
+        row_id="@string/toggle_row_uri"
+        start_pos_y="75%p"
+        width="20%p" >
+        <key id="6" />
+        <key id="4" />
+        <!-- <key
+            label="/"
+            width="15.304%p" /> -->
+        <key
+            code="62"
+            key_type="5"
+            width="41.5%p" />
+        <key id="7" />
+        <key id="1" />
+        <key id="8" />
+    </row>
+    <!-- 标准邮箱输入 -->
+    <row
+        row_id="@string/toggle_row_emailaddress"
+        start_pos_y="75%p"
+        width="20%p" >
+        <key id="6" />
+        <key id="4" />
+        <!-- <key
+            label="\@"
+            width="15.304%p" /> -->
+        <key
+            code="62"
+            key_type="5"
+            width="41.5%p" />
+        <key id="7" />
+        <key id="1" />
+        <key id="8" /> 
+    </row>
+
+</keyboard>

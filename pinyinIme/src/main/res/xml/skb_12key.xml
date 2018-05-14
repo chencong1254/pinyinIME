@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboard
+    balloon="false"
+    height="25%p"
+    key_type="0"
+    repeat="false"
+    skb_template="@xml/skb_template1"
+    width="25%p" >
+
+    <row>
+        <key
+            code="8"
+            icon="@drawable/num1" >
+            <toggle_state
+                label="("
+                state_id="@string/toggle_phone_sym" />
+        </key>
+        <key
+            code="9"
+            icon="@drawable/num2" >
+            <toggle_state
+                label="/"
+                state_id="@string/toggle_phone_sym" />
+        </key>
+        <key
+            code="10"
+            icon="@drawable/num3" >
+            <toggle_state
+                label=")"
+                state_id="@string/toggle_phone_sym" />
+        </key>
+        <key label="-" />
+    </row>
+    <row>
+        <key
+            code="11"
+            icon="@drawable/num4" >
+            <toggle_state
+                label="N"
+                state_id="@string/toggle_phone_sym" />
+        </key>
+        <key
+            code="12"
+            icon="@drawable/num5" >
+            <toggle_state
+                code="44"
+                label="暂 停"
+                state_id="@string/toggle_phone_sym" />
+        </key>
+        <key
+            code="13"
+            icon="@drawable/num6" >
+            <toggle_state
+                label=","
+                state_id="@string/toggle_phone_sym" />
+        </key>
+        <key label="." />
+    </row>
+    <row>
+        <key
+            code="14"
+            icon="@drawable/num7" >
+            <toggle_state
+                icon="@drawable/numstar"
+                label="*"
+                state_id="@string/toggle_phone_sym" />
+        </key>
+        <key
+            code="15"
+            icon="@drawable/num8" >
+            <toggle_state
+                code="51"
+                label="等 待"
+                state_id="@string/toggle_phone_sym" />
+        </key>
+        <key
+            code="16"
+            icon="@drawable/num9" >
+            <toggle_state
+                label="\#"
+                state_id="@string/toggle_phone_sym" />
+        icon="@drawable/numpound"/>
+        </key>
+        <key
+            code="67"
+            key_type="1"
+            repeat="true" />
+    </row>
+    <row>
+        <key
+            code="-4"
+            icon="@drawable/numalt"
+            repeat="true" >
+            <toggle_state
+                code="-4"
+                label="123"
+                state_id="@string/toggle_phone_sym" />
+        </key>
+        <key
+            code="7"
+            icon="@drawable/num0" >
+            <toggle_state
+                label="+"
+                state_id="@string/toggle_phone_sym" />
+        </key>
+        <key code="62" />
+        <key id="2" />
+    </row>
+
+</keyboard>

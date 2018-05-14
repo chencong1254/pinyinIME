@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_PACKAGED_RESOURCES"},"apkInfo":{"type":"FULL_SPLIT","splits":[{"filterType":"ABI","value":"x86"}],"versionCode":1},"path":"resources-debug.ir.ap_","properties":{"packageId":"com.hht.pinyinime","split":"","minSdkVersion":"8"}}]

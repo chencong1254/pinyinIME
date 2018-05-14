@@ -1,0 +1,53 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "26.0.2"
+
+    defaultConfig {
+        applicationId "com.hht.pinyinime"
+        minSdkVersion 8
+        targetSdkVersion 18
+
+        ndk {
+            moduleName "libjni_pinyinime"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    // 解决 native libraries 不支持cpu的体系结构。允许模拟器调试
+//    splits {
+//        abi {
+//            enable true
+//            reset()
+//            include 'x86', 'armeabi-v7a','x86_64'
+//            universalApk true
+//        }
+//    }
+    //需要 打包so是 打开
+//    tasks.withType(JavaCompile) {
+//        compileTask -> compileTask.dependsOn CopyToJniLibs
+//    }
+//    task ndkBuild(type: Exec, description: 'Compile JNI source via NDK') {
+//        Properties properties = new Properties()
+//        properties.load(project.rootProject.file('local.properties').newDataInputStream())
+//        def ndkDir = properties.getProperty('ndk.dir')
+//        commandLine "$ndkDir/ndk-build.cmd", "NDK_PROJECT_PATH=$projectDir.absolutePath\\build", "APP_BUILD_SCRIPT=$projectDir.absolutePath\\src\\main\\jni\\Android.mk", "NDK_APPLICATION_MK=$projectDir.absolutePath\\src\\main\\jni\\Application.mk"
+//        //你自己的mk文件目录
+//    }
+//
+//    task CopyToJniLibs(type: Copy, dependsOn: 'ndkBuild', description: 'copy the native libs to jniLibs') {
+//        from fileTree(dir: file(buildDir.absolutePath + '/libs'), include: '**/*.so')
+//        into file('src/main/jniLibs')
+//    }
+}
+
+dependencies {
+    compile files('libs/android-support-v4-25.3.1.jar')
+}
